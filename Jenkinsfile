@@ -1,8 +1,7 @@
 node {
    def mvnHome
    stage('Preparation') { // for display purposes
-      git 'https://github.com/jglick/simple-maven-project-with-tests.git'        
-      mvnHome = tool 'M3'
+      git 'https://github.com/jglick/simple-maven-project-with-tests.git'      
    }
    stage('Compile') {
       echo 'I am from Compile Statge'
