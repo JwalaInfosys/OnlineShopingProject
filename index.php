@@ -26,7 +26,7 @@ session_start();
                <div class="container">
                    <center>
                    <div id="bannerContent">
-                       <h1>Infosys Sell... .</h1>
+                       <h1>Infosys Limited... .</h1>
                        <p>Flat 40% OFF on all premium brands.</p>
                        <a href="products.php" class="btn btn-danger">Shop Now</a>
                    </div>
